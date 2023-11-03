@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi 😀👋
 
+My name is Enrique, i'm an student of web development
+
+- 🌱 I’m currently learning JavaScript, PHP, HTML5 and CSS3
 <!--
 **Kikenvt/Kikenvt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
